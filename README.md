@@ -9,6 +9,18 @@ discussing copying and moving objects in C++.
 * I accidentally numbered them Exercises 1, 3, and 4.
 * (I probably should have named Exercise 1 Part 2 as "Exercise 2".)
 
+`Slide XX` [Part 01. Homework 09 Corrections](https://ensemble.reed.edu/Watch/Qi3p4N9M) *MMmSSs*  
+`Slide XX` [Part 02. Bad `dc` Passing *by Value*](https://ensemble.reed.edu/Watch/Yr6s8TLt) *MMmSSs*  
+`Slide XX` [Part 03. Two Container Classes](https://ensemble.reed.edu/Watch/Hb34RxEc) *MMmSSs*  
+`Slide XX` [Part 04. Copy Constructor](https://ensemble.reed.edu/Watch/b9RNg56G) *MMmSSs*  
+`Slide XX` [Part 05. Copy Assignment](https://ensemble.reed.edu/Watch/q9GRz78P) *MMmSSs*  
+`Slide XX` [Part 06. Move Assignment](https://ensemble.reed.edu/Watch/a7M2Lie3) *MMmSSs*  
+`Slide XX` [Part 07. Move Constructor](https://ensemble.reed.edu/Watch/t8P7Ejp6) *MMmSSs*  
+`Slide XX` [Part 08. Copy Assignment](https://ensemble.reed.edu/Watch/q5NMw37A) *MMmSSs*  
+`Slide XX` [Part 09. `dc` Revisted; Week 11 Preview](https://ensemble.reed.edu/Watch/p4F3CoGs) *MMmSSs*  
+
+
+
 ## Overview of the lecture
 
 Today's lecture works to address a problem introduced in the code
