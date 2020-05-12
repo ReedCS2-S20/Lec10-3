@@ -3,12 +3,6 @@
 This contains the slides PDF and sample code for a lecture
 discussing copying and moving objects in C++.
 
-## A note on Homework 09:
-
-* There are only three exercises and the first has two parts.
-* I accidentally numbered them Exercises 1, 3, and 4.
-* (I probably should have named Exercise 1 Part 2 as "Exercise 2".)
-
 `Slide 01` [Part 01. Homework 09 Corrections](https://ensemble.reed.edu/Watch/Qi3p4N9M) *08m15s*  
 `Slide 11` [Part 02. Bad `dc` Passing *by Value*](https://ensemble.reed.edu/Watch/Yr6s8TLt) *04m15s*  
 `Slide 17` [Part 03. Two Container Classes](https://ensemble.reed.edu/Watch/Hb34RxEc) *06m30s*  
@@ -19,6 +13,11 @@ discussing copying and moving objects in C++.
 `Slide 45` [Part 08. All Four](https://ensemble.reed.edu/Watch/q5NMw37A) *09m45s*  
 `Slide 62` [Part 09. `dc` Revisted; Week 11 Preview](https://ensemble.reed.edu/Watch/p4F3CoGs) *03m00s*  
 
+## A note on Homework 09:
+
+* There are only three exercises and the first has two parts.
+* I accidentally numbered them Exercises 1, 3, and 4.
+* (I probably should have named Exercise 1 Part 2 as "Exercise 2".)
 
 ## Overview of the lecture
 
