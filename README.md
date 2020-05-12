@@ -9,16 +9,15 @@ discussing copying and moving objects in C++.
 * I accidentally numbered them Exercises 1, 3, and 4.
 * (I probably should have named Exercise 1 Part 2 as "Exercise 2".)
 
-`Slide XX` [Part 01. Homework 09 Corrections](https://ensemble.reed.edu/Watch/Qi3p4N9M) *MMmSSs*  
-`Slide XX` [Part 02. Bad `dc` Passing *by Value*](https://ensemble.reed.edu/Watch/Yr6s8TLt) *MMmSSs*  
-`Slide XX` [Part 03. Two Container Classes](https://ensemble.reed.edu/Watch/Hb34RxEc) *MMmSSs*  
-`Slide XX` [Part 04. Copy Constructor](https://ensemble.reed.edu/Watch/b9RNg56G) *MMmSSs*  
-`Slide XX` [Part 05. Copy Assignment](https://ensemble.reed.edu/Watch/q9GRz78P) *MMmSSs*  
-`Slide XX` [Part 06. Move Assignment](https://ensemble.reed.edu/Watch/a7M2Lie3) *MMmSSs*  
-`Slide XX` [Part 07. Move Constructor](https://ensemble.reed.edu/Watch/t8P7Ejp6) *MMmSSs*  
-`Slide XX` [Part 08. Copy Assignment](https://ensemble.reed.edu/Watch/q5NMw37A) *MMmSSs*  
-`Slide XX` [Part 09. `dc` Revisted; Week 11 Preview](https://ensemble.reed.edu/Watch/p4F3CoGs) *MMmSSs*  
-
+`Slide 01` [Part 01. Homework 09 Corrections](https://ensemble.reed.edu/Watch/Qi3p4N9M) *08m15s*  
+`Slide 11` [Part 02. Bad `dc` Passing *by Value*](https://ensemble.reed.edu/Watch/Yr6s8TLt) *04m15s*  
+`Slide 17` [Part 03. Two Container Classes](https://ensemble.reed.edu/Watch/Hb34RxEc) *06m30s*  
+`Slide 23` [Part 04. Copy Constructor](https://ensemble.reed.edu/Watch/b9RNg56G) *08m15s*  
+`Slide 31` [Part 05. Copy Assignment](https://ensemble.reed.edu/Watch/q9GRz78P) *05m30s*  
+`Slide 34` [Part 06. Move Assignment](https://ensemble.reed.edu/Watch/a7M2Lie3) *05m45s*  
+`Slide 40` [Part 07. Move Constructor](https://ensemble.reed.edu/Watch/t8P7Ejp6) *03m15s*  
+`Slide 45` [Part 08. All Four](https://ensemble.reed.edu/Watch/q5NMw37A) *09m45s*  
+`Slide 62` [Part 09. `dc` Revisted; Week 11 Preview](https://ensemble.reed.edu/Watch/p4F3CoGs) *03m00s*  
 
 
 ## Overview of the lecture
